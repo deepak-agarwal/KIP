@@ -1,0 +1,14 @@
+#navList,#logo{
+    list-style: none;
+    text-align: center;
+    /* display: inline-block */
+}
+
+#navList {
+    display:inline-flex;
+}
+
+.navItems{
+    margin-right: 5%;
+}
+
